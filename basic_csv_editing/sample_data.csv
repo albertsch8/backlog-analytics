@@ -1,0 +1,16 @@
+Sample Data for Basic CSV Editing,,,,,,,
+ID,Work Item Type,Title 1,Title 2,Title 3,State,Story Points,Iteration Path
+100,Feature,feature1,,,Closed,,projectName\team1
+111,User Story,,story1,,Closed,1,projectName\team1\Sprint 1
+112,User Story,,story2,,Closed,1,projectName\team1\Sprint 1
+113,User Story,,story3,,Closed,3,projectName\team1\Sprint 1
+200,Feature,feature2,,,Active,,projectName\team1
+201,Bug,,bug1,,Closed,2,projectName\team1\Sprint 2
+222,Tasks,,task2,,Closed,3,projectName\team1\Sprint 2
+234,Bug,,bug2,,Closed,,projectName\team1\Sprint 2
+300,Feature,feature3,,,Active,,projectName\team1
+312,User Story,,story5,,Closed,1,projectName\team1\Sprint 1
+345,User Story,,story6,,Closed,2,projectName\team1\Sprint 1
+333,User Story,,story7,,Closed,1,projectName\team1\Sprint 1
+376,User Story,,story8,,Closed,1,projectName\team1\Sprint 2
+365,User Story,,story9,,Closed,1,projectName\team1\Sprint 2

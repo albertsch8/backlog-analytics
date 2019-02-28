@@ -1,0 +1,31 @@
+ID,Work Item Type,Title,State,Story Points,Iteration Path
+100,Feature,feature1,Closed,,projectName\team1
+111,User Story,story1,Closed,1,projectName\team1\Sprint 1
+112,User Story,story2,Closed,1,projectName\team1\Sprint 1
+113,User Story,story3,Closed,3,projectName\team1\Sprint 1
+200,Feature,feature2,Active,,projectName\team1
+201,Bug,bug1,Closed,2,projectName\team1\Sprint 2
+222,Tasks,task2,Closed,3,projectName\team1\Sprint 2
+234,Bug,bug2,Closed,,projectName\team1\Sprint 2
+300,Feature,feature3,Active,,projectName\team1
+312,User Story,story5,Closed,1,projectName\team1\Sprint 1
+345,User Story,story6,Closed,2,projectName\team1\Sprint 1
+333,User Story,story7,Closed,1,projectName\team1\Sprint 1
+376,User Story,story8,Closed,1,projectName\team1\Sprint 2
+365,User Story,story9,Closed,1,projectName\team1\Sprint 2
+400,Feature,feature4,Active,,projectName\team1
+410,User Story,story10,Closed,2,projectName\team1\Sprint 2
+423,Bug,bug3,Closed,,projectName\team1\Sprint 3
+432,User Story,story11,Closed,1,projectName\team1\Sprint 3
+456,User Story,story12,Closed,3,projectName\team1\Sprint 3
+474,User Story,story13,Closed,1,projectName\team1\Sprint 3
+424,User Story,story14,Closed,1,projectName\team1\Sprint 3
+498,User Story,story15,Resolved,1,projectName\team1\Sprint 4
+500,Feature,feature5,New,,projectName\team1
+512,User Story,story16,Closed,2,projectName\team1\Sprint 4
+567,Bug,bug4,Active,,projectName\team1\Sprint 4
+543,User Story,story17,Active,1,projectName\team1\Sprint 4
+512,Tasks,task3,New,1,projectName\team1\Sprint 4
+598,User Story,story18,New,1,projectName\team1\Sprint 4
+509,User Story,story19,New,1,projectName\team1\Sprint 4
+523,User Story,story20,New,1,projectName\team1\Sprint 4

@@ -1,0 +1,500 @@
+﻿ID,Work Item Type,Title,State,Tags,Iteration Path,Story Points,Area Path
+70643,Feature,Enter LIFEPAK 15 number,Closed,LifeNet; V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+74709,User Story,Relabel LIFEPAK ID to MONITOR ID,Closed,,Hit\Fuse\Amber Lamps\Sprint 10,1,Hit\Fuse Platform\V2
+75092,User Story,Select LIFEPAK 15 device from Lifenet | Use Config Data,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 11,1,Hit\Fuse Platform\V2
+70642,User Story,Crew Screen: Edit unit number and LifePAK ID,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 2,1,Hit\Fuse Platform\V2
+70744,User Story,Select LIFEPAK 15 device from Lifenet | Put defibs,Closed,FuseAdminServer; MVP; V2,Hit\Fuse\Amber Lamps\Sprint 15,1,Hit\Fuse Platform\V2
+70737,Feature,Device & OS compatibility,Active,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+72234,User Story,Splash screen,New,MVP; QA_Testing; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+77426,Tasks,UX: Splash Screen Design,Active,,Hit\Fuse\UX,,Hit\Fuse Platform
+70739,User Story,List OS compatibility,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 4,1,Hit\Fuse Platform\V2
+69775,Feature,Download and Install for Android and iOS (EMS),New,BLOCKED; V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+73692,User Story,API for server version number.,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 8,1,Hit\Fuse Platform\V2
+74412,User Story,Add property to iOS config to auto-answer encryption question on app store export,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 9,1,Hit\Fuse Platform\V2
+70931,User Story,Deploying Mobile Client to App stores,New,BLOCKED; MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+70932,User Story,Mobile Client Versioning iOS,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 4,1,Hit\Fuse Platform\V2
+70745,User Story,Download from Stores,New,BLOCKED; MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+69090,User Story,SPIKE: Research iOS/Android/Win10 and Win7 | Cordova,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 0,1,Hit\Fuse Platform\V2
+69093,User Story,Research Platform | Discussion & Decision,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 1,1,Hit\Fuse Platform\V2
+69094,User Story,SPIKE: Sprint 1 Backlog Ready,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 0,1,Hit\Fuse Platform\V2
+69096,User Story,App Center Build Process - IOS,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 0,1,Hit\Fuse Platform\V2
+69183,User Story,Deployment: Hello World iOS,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 2,1,Hit\Fuse Platform\V2
+69184,User Story,Deployment: Hello World Android,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 1,1,Hit\Fuse Platform\V2
+69185,User Story,Mobile Deployment Pipeline: CI,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 1,1,Hit\Fuse Platform\V2
+69188,User Story,Backend Deployment Pipeline: ,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 1,1,Hit\Fuse Platform\V2
+69432,User Story,App Center Build Process - Android ,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 1,1,Hit\Fuse Platform\V2
+69433,User Story,SPIKE: UWP for Windows,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 1,1,Hit\Fuse Platform\V2
+69528,User Story,Server Versioning/Deploying,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 3,1,Hit\Fuse Platform\V2
+69776,Feature,User Authentication,Active,LifeNet; V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+74166,User Story,Update Identity Service,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 9,1,Hit\Fuse Platform\V2
+71088,User Story,Disable login button while waiting for response,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 3,1,Hit\Fuse Platform\V2
+71358,User Story,Initial App Log In,New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+70747,User Story,Auto log out,New,BLOCKED; MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+70748,User Story,Log out,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 3,1,Hit\Fuse Platform\V2
+69187,User Story,SPIKE: npm login: componitize shared stuff?,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 0,1,Hit\Fuse Platform\V2
+69452,User Story,EMS Log In,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 1,1,Hit\Fuse Platform\V2
+76522,User Story,Track Events for User Logout EMS,New,Analytics; EMS,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+69778,Feature,User Authorization,Active,BLOCKED; LifeNet; V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+71509,User Story,User Authorization by Role,New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+71935,User Story,Set Up E2E Environment:,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 6,1,Hit\Fuse Platform\V2
+72515,User Story,Update Identity Server Location,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 6,1,Hit\Fuse Platform\V2
+69779,Feature,End User License Agreement,Closed,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+69780,Feature,User credential management,Active,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+73971,User Story,In-App 'Forgot your password',New,LifeNet; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+70751,User Story,Password Reset,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 3,1,Hit\Fuse Platform\V2
+75939,User Story,Login temporary password (new account),Active,,Hit\Fuse\Amber Lamps\Sprint 18,1,Hit\Fuse Platform\V2
+75941,User Story,Login password change ,New,,Hit\Fuse\Amber Lamps\Sprint 19,1,Hit\Fuse Platform\V2
+75955,User Story,Login password forgot password ,Active,,Hit\Fuse\Amber Lamps\Sprint 18,1,Hit\Fuse Platform\V2
+75956,User Story,Login password lock out,New,,Hit\Fuse\Amber Lamps\Sprint 18,1,Hit\Fuse Platform\V2
+78475,User Story,Login password requirements - error message (less than 8 characters),New,,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+78478,User Story,Login password requirements - error message (3 of 4 options),New,,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+78485,User Story,Login password requirements - error message (passwords must match),New,,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+69783,Feature,Enter Patient demographics,Closed,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+72591,User Story,Patient Contact Count Up Timer,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 6,1,Hit\Fuse Platform\V2
+72662,User Story,Update Elapsed Time Title,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 6,1,Hit\Fuse Platform\V2
+71090,User Story,Patient History Screen: Show list of patients,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 4,1,Hit\Fuse Platform\V2
+71418,User Story,Last Known timer,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 6,1,Hit\Fuse Platform\V2
+71471,User Story,Patient List: Create New Patient,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 4,1,Hit\Fuse Platform\V2
+71502,User Story,Patient Data: Patient Contact Date / Time UI change,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 6,1,Hit\Fuse Platform\V2
+72029,User Story,DEFECT: Input styling on Android,Closed,DEFECT; MVP,Hit\Fuse\Amber Lamps\Sprint 5,1,Hit\Fuse Platform\V2
+72247,User Story,Patient Emergency Contact Call,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 6,1,Hit\Fuse Platform\V2
+69852,User Story,Patient Info: Patient Emergency Contact,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 5,1,Hit\Fuse Platform\V2
+69955,User Story,Patient Data: Clear DoB,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 4,1,Hit\Fuse Platform\V2
+69451,User Story,Enter Patient Name,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 2,1,Hit\Fuse Platform\V2
+69762,User Story,Patient Data: Contact Date: Edit Date,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 4,1,Hit\Fuse Platform\V2
+69763,User Story,Patient Data: Patient Contact Date / Time,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 4,1,Hit\Fuse Platform\V2
+69764,User Story,Patient Data: Patient Contact Time Edit Time,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 4,1,Hit\Fuse Platform\V2
+69765,User Story,Patient Data: Gender,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 5,1,Hit\Fuse Platform\V2
+69766,User Story,Patient Data: DoB,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 4,1,Hit\Fuse Platform\V2
+69767,User Story,Patient Data: Age,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 5,1,Hit\Fuse Platform\V2
+69768,User Story,Patient Data: Age Calculated,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 5,1,Hit\Fuse Platform\V2
+69769,User Story,Patient Data: Age Units,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 5,1,Hit\Fuse Platform\V2
+69785,Feature,EMS Specific configuration,Closed,LifeNet; V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+74984,User Story,Admin System Config | Infrastructure,Closed,,Hit\Fuse\Amber Lamps\Sprint 11,1,Hit\Fuse Platform\V2
+74985,User Story,Admin System Config | Get All Config | Static,Closed,,Hit\Fuse\Amber Lamps\Sprint 11,1,Hit\Fuse Platform\V2
+74986,User Story,Admin System Config | Get All Config | irl,Closed,V2,Hit\Fuse\Amber Lamps\Sprint 12,1,Hit\Fuse Platform\V2
+69787,Feature,User access Controls,Closed,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+69788,Feature,Import Patient's demo from ID,Closed,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+70797,User Story,Scan ID,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 10,1,Hit\Fuse Platform\V2
+69089,User Story,ID Scan: Drivers License ,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 0,1,Hit\Fuse Platform\V2
+69091,User Story,ID Scan in Cordova,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 0,1,Hit\Fuse Platform\V2
+69092,User Story,SPIKE: ID Scan Passport,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 0,1,Hit\Fuse Platform\V2
+69107,User Story,ID Scan Windows,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 0,1,Hit\Fuse Platform\V2
+69790,Feature,Hospital Destination,Closed,LifeNet; V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+74859,User Story,Choose Hospital from config,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 11,1,Hit\Fuse Platform\V2
+74912,User Story,Online Medical Control/Base Hospital | Put emsMedicalContacts,Closed,FuseAdminServer; MVP; V2,Hit\Fuse\Amber Lamps\Sprint 15,1,Hit\Fuse Platform\V2
+74913,User Story,Online Medical Control/Base Hospital | Get emsMedicalContacts,Closed,FuseAdminServer; MVP; V2,Hit\Fuse\Amber Lamps\Sprint 15,1,Hit\Fuse Platform\V2
+74923,User Story,Send to Hospital Button,Closed,,Hit\Fuse\Amber Lamps\Sprint 11,1,Hit\Fuse Platform\V2
+74924,User Story,Send to Hospital | Msg on Bus,Closed,,Hit\Fuse\Amber Lamps\Sprint 11,1,Hit\Fuse Platform\V2
+70946,User Story,Online Medical Control/Base Hospital | front end,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 12,1,Hit\Fuse Platform\V2
+69448,User Story,Submit to Msg Bus,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 2,1,Hit\Fuse Platform\V2
+69449,User Story,Choose Hospital,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 1,1,Hit\Fuse Platform\V2
+69450,User Story,Choose Hospital from LifeNet | Get Hospital,Closed,FuseAdminServer; MVP; V2,Hit\Fuse\Amber Lamps\Sprint 15,1,Hit\Fuse Platform\V2
+76525,User Story,Choose Hospital from LifeNet | Put Hospital,Closed,FuseAdminServer; MVP; V2,Hit\Fuse\Amber Lamps\Sprint 15,1,Hit\Fuse Platform\V2
+69792,Feature,Enter Vitals,Closed,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+72675,User Story,Vitals | Vitals Record with all null values,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 7,1,Hit\Fuse Platform\V2
+73000,User Story,Enter vitals manually - eVitals.05 Rhythm,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 7,1,Hit\Fuse Platform\V2
+73001,User Story,Enter vitals manually - eVitals.04 Rhythm Type,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 7,1,Hit\Fuse Platform\V2
+73279,User Story,Enter vitals manually - eVtails.06-07 BP,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 7,1,Hit\Fuse Platform\V2
+73535,User Story,Edit Vitals,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 8,1,Hit\Fuse Platform\V2
+73536,User Story,Delete Vitals,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 8,1,Hit\Fuse Platform\V2
+73765,User Story,"eVitals.19, 20, 21, 22, 23 GCS | add scale with static values",Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 7,1,Hit\Fuse Platform\V2
+73766,User Story,eVitals.23 GCS | scale total,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 8,1,Hit\Fuse Platform\V2
+73824,User Story,"eVitals.19, 20, 21, 22, 23 GCS | dynamic save button",Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 8,1,Hit\Fuse Platform\V2
+73833,User Story,Spike: dynamically enable/disable react native . navigation buttons,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 7,1,Hit\Fuse Platform\V2
+73968,User Story,Vitals - Cardon Dioxide should be End-Tidal Carbon Dioxide or labeled as ETCO2,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 8,1,Hit\Fuse Platform\V2
+73970,User Story,Flatten Accordion ,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 8,1,Hit\Fuse Platform\V2
+74062,User Story,eVitals.23 GCS | incompletes/Refused,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 8,1,Hit\Fuse Platform\V2
+74528,User Story,LifePak API | Substitue Pulse Rate for Heart Rate,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 9,1,Hit\Fuse Platform\V2
+71325,User Story,Multiple Vital sets,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 6,1,Hit\Fuse Platform\V2
+71513,User Story,Patient Nav Tabs | shift page on each logon,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 5,1,Hit\Fuse Platform\V2
+71686,User Story,Patient Nav Tabs| Nav format w/icons 2,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 5,1,Hit\Fuse Platform\V2
+71687,User Story,Patient Nav Tabs | settings gear 3,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 5,1,Hit\Fuse Platform\V2
+72255,User Story,Add Vitals Button,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 6,1,Hit\Fuse Platform\V2
+72256,User Story,Vitals Accordion ,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 6,1,Hit\Fuse Platform\V2
+70798,User Story,Enter vitals manually - eVitals.10 Heart Rate,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 6,1,Hit\Fuse Platform\V2
+70800,User Story,"Enter vitals manually - eVtails.06-07 SBP, DBP",Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 7,1,Hit\Fuse Platform\V2
+70801,User Story,Enter vitals manually - eVitals.14 Respiration Rate,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 6,1,Hit\Fuse Platform\V2
+70802,User Story,Enter vitals manually - eVitals.12 SPO2,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 7,1,Hit\Fuse Platform\V2
+70803,User Story,Enter vitals manually - eVitals.16 CO2,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 7,1,Hit\Fuse Platform\V2
+70804,User Story,Enter vitals manually - eVitals.17 CO,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 7,1,Hit\Fuse Platform\V2
+70807,User Story,Enter vitals manually - eVitals.24 Temperature,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 7,1,Hit\Fuse Platform\V2
+70809,User Story,Enter vitals manually - eVitals.03 Rhythm Values,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 7,1,Hit\Fuse Platform\V2
+69795,Feature,Vitals import from LIFEPAK 15 monitor,Closed,LifeNet; V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+73948,User Story,LifePak API | 2. put /patientRecords/,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 8,1,Hit\Fuse Platform\V2
+73949,User Story,LifePak API | 3. get /patientRecords/,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 8,1,Hit\Fuse Platform\V2
+73950,User Story,LifePak API | 4. get /_health/,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 8,1,Hit\Fuse Platform\V2
+73951,User Story,LifePak API | 5. get /_health/deep,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 8,1,Hit\Fuse Platform\V2
+74317,User Story,LifePak API | Monitor record list,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 9,1,Hit\Fuse Platform\V2
+74318,User Story,LifePak API | Mark monitor record as imported,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 9,1,Hit\Fuse Platform\V2
+74319,User Story,Indicate vitals that have been imported,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 9,1,Hit\Fuse Platform\V2
+74710,User Story,Relabel 'ADD MONITOR' to 'ADD MONITOR DATA',Closed,,Hit\Fuse\Amber Lamps\Sprint 10,1,Hit\Fuse Platform\V2
+70811,User Story,11. Vitals import from LIFEPAK 15 monitor,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 9,1,Hit\Fuse Platform\V2
+70813,User Story,8. Select case to import from LIFEPAK 15 list,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 9,1,Hit\Fuse Platform\V2
+69798,Feature,Hospital | Enter MRN,Closed,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+69186,User Story,SPIKE: E2E Backend Tests,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 1,1,Hit\Fuse Platform\V2
+69447,User Story,MRN Field | EMS to Hospital,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 2,1,Hit\Fuse Platform\V2
+69800,Feature,Select Provider Impression,Closed,LifeNet; V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+74861,User Story,Select PI from LIFENET list | Put Impression,Closed,FuseAdminServer; MVP; V2,Hit\Fuse\Amber Lamps\Sprint 15,1,Hit\Fuse Platform\V2
+74866,User Story,Remove Provider Impression,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 16,1,Hit\Fuse Platform\V2
+75096,User Story,Select PI from LIFENET list | Use Config Data,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 11,1,Hit\Fuse Platform\V2
+71193,User Story,Select PI from LIFENET list | Get Impression,Closed,FuseAdminServer; MVP; V2,Hit\Fuse\Amber Lamps\Sprint 15,1,Hit\Fuse Platform\V2
+69771,User Story,Page: Provider Impressions,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 10,1,Hit\Fuse Platform\V2
+69848,Feature,Enter ETA,Closed,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+70828,User Story,Display ETA | Defaulted,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 12,1,Hit\Fuse Platform\V2
+69849,Feature,Auto-calculate ETA,Active,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+70836,User Story,Auto calculate ETA,New,BLOCKED; MVP; V2,Hit\Fuse\Amber Lamps,3,Hit\Fuse Platform\V2
+69098,User Story,PoC: ETA Calculator based on GPS,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 0,1,Hit\Fuse Platform\V2
+70247,Feature,On shift (duty) status,Closed,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+70741,User Story,On Shift (duty) status,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 3,1,Hit\Fuse Platform\V2
+70251,Feature,Crew member,Closed,LifeNet; V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+75097,User Story,Crew member from Lifenet | Use Config Data,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 13,1,Hit\Fuse Platform\V2
+71472,User Story,Crew Tab: Show shift settings,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 4,1,Hit\Fuse Platform\V2
+72137,User Story,SPIKE: React Native Long Press,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 5,1,Hit\Fuse Platform\V2
+72503,User Story,Make shift settings scrollable,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 6,1,Hit\Fuse Platform\V2
+70233,User Story,Crew Page: React Mock,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 3,1,Hit\Fuse Platform\V2
+70239,User Story,Settings Screen: React Mock and crew button,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 2,1,Hit\Fuse Platform\V2
+70640,User Story,Crew Screen: Edit crew members,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 3,1,Hit\Fuse Platform\V2
+70740,User Story,Crew member from Lifenet | Put emsCrewMembers,Closed,FuseAdminServer; MVP; V2,Hit\Fuse\Amber Lamps\Sprint 15,1,Hit\Fuse Platform\V2
+70845,User Story,Crew member as documentor,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 5,1,Hit\Fuse Platform\V2
+70253,Feature,Unit/Vehicle number,Closed,LifeNet; V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+74860,User Story,Select Vehicle/Unit number from LIFENET | Put Vehicles,Closed,FuseAdminServer; MVP; V2,Hit\Fuse\Amber Lamps\Sprint 15,1,Hit\Fuse Platform\V2
+75091,User Story,Select Vehicle/Unit number from LIFENET | Use Config Data,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 11,1,Hit\Fuse Platform\V2
+70639,User Story,"Create Patient: Store default crew info, vehicle/unit number, LifePak ID",Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 3,1,Hit\Fuse Platform\V2
+70743,User Story,Select Vehicle/Unit number from LIFENET | Get Vehicles,Closed,FuseAdminServer; MVP; V2,Hit\Fuse\Amber Lamps\Sprint 14,1,Hit\Fuse Platform\V2
+70260,Feature,Medication,Closed,LifeNet; V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+74244,User Story,Edit medication,Closed,DX; MVP,Hit\Fuse\Amber Lamps\Sprint 11,1,Hit\Fuse Platform\V2
+74245,User Story,Delete medication,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 10,1,Hit\Fuse Platform\V2
+74585,User Story,Manually enter medication dosages,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 10,1,Hit\Fuse Platform\V2
+74586,User Story,Add static medication,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 10,1,Hit\Fuse Platform\V2
+74862,User Story,Pick from LIFENET Medication list | Put Medication,Closed,FuseAdminServer; LifeNet; MVP; V2,Hit\Fuse\Amber Lamps\Sprint 15,1,Hit\Fuse Platform\V2
+75095,User Story,Pick from LIFENET Medication list | Use Config Data,Closed,LifeNet; MVP,Hit\Fuse\Amber Lamps\Sprint 11,1,Hit\Fuse Platform\V2
+70818,User Story,Manually add multiple medications,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 10,1,Hit\Fuse Platform\V2
+70831,User Story,Pick from LIFENET Medication list | Get Medication,Closed,FuseAdminServer; LifeNet; MVP; V2,Hit\Fuse\Amber Lamps\Sprint 15,1,Hit\Fuse Platform\V2
+70261,Feature,Procedure,Closed,LifeNet; V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+74246,User Story,Delete Procedure,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 10,1,Hit\Fuse Platform\V2
+74247,User Story,Edit Procedures,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 16,1,Hit\Fuse Platform\V2
+74640,User Story,Enter Procedure Multiple Manually,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 10,1,Hit\Fuse Platform\V2
+74863,User Story,Pick from LIFENET Procedure list| Put Procedures,Closed,FuseAdminServer; MVP; V2,Hit\Fuse\Amber Lamps\Sprint 15,1,Hit\Fuse Platform\V2
+75093,User Story,Pick from LIFENET Procedure list| Use Config Data,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 11,1,Hit\Fuse Platform\V2
+71468,User Story,"Import ""Monitor Events"" from LIFEPAK 15",Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 16,1,Hit\Fuse Platform\V2
+70829,User Story,Enter Procedure Manually,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 10,1,Hit\Fuse Platform\V2
+70830,User Story,Pick from LIFENET Procedure list| Get Procedures,Closed,FuseAdminServer; MVP; V2,Hit\Fuse\Amber Lamps\Sprint 15,1,Hit\Fuse Platform\V2
+77418,User Story,"Delete ""Monitor Events"" from LIFEPAK 15",Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 17,1,Hit\Fuse Platform\V2
+70014,Feature,Patient Data Changes,Active,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+75457,User Story,Patient Contact Timer,Removed,V2,Hit\Fuse\Amber Lamps\Sprint 18,0,Hit\Fuse Platform\V2
+76934,Tasks,UX: Patient contact timer,Closed,,Hit\Fuse\UX,0,Hit\Fuse Platform
+74065,User Story,Relabel Incident to EMS Response Number,Closed,,Hit\Fuse\Amber Lamps\Sprint 10,1,Hit\Fuse Platform\V2
+74393,User Story,Patient Age unit shown on the Call History screen,Closed,MVP; QA_Testing; V2,Hit\Fuse\Amber Lamps\Sprint 17,1,Hit\Fuse Platform\V2
+71330,User Story,EMS Response Number,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 6,1,Hit\Fuse Platform\V2
+70238,User Story,Convert to tab based navigation,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 2,1,Hit\Fuse Platform\V2
+69851,User Story,Patient Info: Estimated Weight Units,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 5,1,Hit\Fuse Platform\V2
+69958,User Story,Patient Info: Estimated Weight in lb,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 4,1,Hit\Fuse Platform\V2
+69770,User Story,Patient Data: Last Known Well,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 6,1,Hit\Fuse Platform\V2
+77503,User Story,Patient List | Update Provider Impression,Closed,MVP; QA_Testing; V2,Hit\Fuse\Amber Lamps\Sprint 16,1,Hit\Fuse Platform\V2
+77510,User Story,Patient List | Add Patient Status,Closed,MVP; QA_Testing; V2,Hit\Fuse\Amber Lamps\Sprint 16,1,Hit\Fuse Platform\V2
+77511,User Story,Patient List | Rearrange Data,Closed,MVP; QA_Testing; V2,Hit\Fuse\Amber Lamps\Sprint 16,1,Hit\Fuse Platform\V2
+77587,User Story,UI Change | Timers!!!!1,Resolved,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 18,2,Hit\Fuse Platform\V2
+78002,User Story,UI Change | Timers - Post Transfer of Care,Active,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 18,1,Hit\Fuse Platform\V2
+70178,Feature,Helpdesk,Closed,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+74192,User Story,Helpdesk | 2. API for Data,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 12,1,Hit\Fuse Platform\V2
+70835,User Story,Helpdesk | 1. Display Helpdesk Page,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 12,1,Hit\Fuse Platform\V2
+70181,Feature,Import ECG from LIFEPAK15,Resolved,LifeNet; V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+72650,User Story,SPIKE: In app PDF Viewer for iPhone and Android,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 8,1,Hit\Fuse Platform\V2
+74167,User Story,LifePak API | 7. Authenticated in API,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 18,1,Hit\Fuse Platform\V2
+74217,User Story,10. Delete ECG imported from LIFEPAK 15,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 10,1,Hit\Fuse Platform\V2
+74258,User Story,9.1 See ECG in app PDF Reader,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 9,1,Hit\Fuse Platform\V2
+74644,User Story,Resolve Duplicate Data in Separate Record IDs,Closed,V2,Hit\Fuse\Amber Lamps\Sprint 16,1,Hit\Fuse Platform\V2
+70814,User Story,9. See ECG imported in app,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 9,1,Hit\Fuse Platform\V2
+70241,Feature,App use offline mode,Closed,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+71246,User Story,Add Redux-Offline support,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 3,1,Hit\Fuse Platform\V2
+71545,User Story,SPIKE: Reorganize redux store for offline,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 4,1,Hit\Fuse Platform\V2
+71631,User Story,Update redux store to fully support offline,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 5,1,Hit\Fuse Platform\V2
+70230,User Story,Spike: Offline First Data Handling,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 3,1,Hit\Fuse Platform\V2
+70843,User Story,Spike: Redux Offline Persistent Data Encryption,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 3,1,Hit\Fuse Platform\V2
+70846,Feature,Time limit for EMS edit data,Closed,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+75459,User Story,Transfer of care time display,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 13,1,Hit\Fuse Platform\V2
+75406,User Story,Patient Read Only Mode | Attachments,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 18,2,Hit\Fuse Platform\V2
+75318,User Story,Complete Patient,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 12,1,Hit\Fuse Platform\V2
+71633,User Story,Transfer of care time,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 12,1,Hit\Fuse Platform\V2
+70848,User Story,EMS edits time limit,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 13,1,Hit\Fuse Platform\V2
+75482,User Story,Complete Patient Again,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 12,1,Hit\Fuse Platform\V2
+77588,User Story,EMS Patient Summary | Patient Information,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 17,1,Hit\Fuse Platform\V2
+77589,User Story,EMS Patient Summary | Emergency Contact,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 17,1,Hit\Fuse Platform\V2
+77590,User Story,EMS Patient Summary | Chief Complaint & Provider Impression & Comments,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 17,1,Hit\Fuse Platform\V2
+77591,User Story,EMS Patient Summary | Latest Vitals,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 17,1,Hit\Fuse Platform\V2
+77595,User Story,Patient Read Only Mode | Navigation,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 17,1,Hit\Fuse Platform\V2
+77598,User Story,Patient Read Only Mode | Hospital Details,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 17,1,Hit\Fuse Platform\V2
+77599,User Story,Patient Read Only Mode | All Vitals,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 17,1,Hit\Fuse Platform\V2
+77600,User Story,Patient Read Only Mode | Procedures,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 17,1,Hit\Fuse Platform\V2
+77601,User Story,Patient Read Only Mode | Assessments,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 18,1,Hit\Fuse Platform\V2
+77603,User Story,EMS Patient Summary | EMS Information,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 17,1,Hit\Fuse Platform\V2
+77605,User Story,Patient Read Only Mode | Medications,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 17,1,Hit\Fuse Platform\V2
+77612,User Story,EMS Patient Summary | Latest Vitals | ECG Rhythm Display ,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 17,1,Hit\Fuse Platform\V2
+77613,User Story,Patient Read Only Mode | Monitor Events,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 18,2,Hit\Fuse Platform\V2
+70891,Feature,Filter Patients,New,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+73838,User Story,Filter - Date Picker,New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+73839,User Story,Filter - Provider Impression,New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+73841,User Story,Filter - Gender,New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+70897,User Story,Filter - most recent,New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+71326,User Story,Filter - Clear Filters,New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+71327,User Story,Filter - Age,New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+70892,Feature,Search Patients,Closed,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+75354,User Story,Search Patient | Search Box in Title Bar,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 12,1,Hit\Fuse Platform\V2
+75355,User Story,Search Patient | Limit Search to 3 Weeks,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 12,1,Hit\Fuse Platform\V2
+70898,User Story,Search Patient | Do the Search,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 12,1,Hit\Fuse Platform\V2
+70893,Feature,Localization,New,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+70895,User Story,English app,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 3,1,Hit\Fuse Platform\V2
+70896,User Story,App localization ready,New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+71374,User Story,Patient Data: Date Localizations | localize all dates,New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+77343,User Story,Localization for Canada (English),New,,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+77344,User Story,Localization for Australia,New,,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+77345,User Story,Localization for United Kingdom,New,,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+70894,Feature,Security & Compliance,New,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+70899,User Story,HIPAA compliance,New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+70900,User Story,Stryker Cyber Security Directive,New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+73638,Feature,Attachments,Active,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+75357,User Story,Blob Storage Solution,Closed,V2,Hit\Fuse\Amber Lamps\Sprint 13,1,Hit\Fuse Platform\V2
+75358,User Story,Take Photo as Attachment | Preview Before Save,Closed,V2,Hit\Fuse\Amber Lamps\Sprint 14,1,Hit\Fuse Platform\V2
+75359,User Story,Take Photo as Attachment | Add Thumbnail,New,V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+73640,User Story,Take Photo as Attachment,Closed,V2,Hit\Fuse\Amber Lamps\Sprint 14,1,Hit\Fuse Platform\V2
+69097,User Story,PoC: Insurance Card Photo,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 0,1,Hit\Fuse Platform\V2
+75827,User Story,SPIKE: Take Photo as Attachment | Add Thumbnail,Closed,V2,Hit\Fuse\Amber Lamps\Sprint 14,1,Hit\Fuse Platform\V2
+75556,User Story,View Photo as Attachment,Closed,V2,Hit\Fuse\Amber Lamps\Sprint 14,1,Hit\Fuse Platform\V2
+72516,Feature,UX To-Do,New,V2,Hit\Fuse,,Hit\Fuse Platform\V2
+72517,Tasks,Stoke Scale Question (edge case styling),New,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+72518,Tasks,"Information flow, notification and screen information for hospital personas of the EMS app",New,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+72519,Tasks,Change 'Add Crew Members' Flow to be a predictive typing search,Closed,MVP,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+72520,Tasks,ECG screen,New,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+72521,Tasks,Filters on Patient Screen,New,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+72522,Tasks,Drop MRN number from the header of app,New,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+72523,Tasks,Registration Nurse Screens -- Ability to add MRN from In-Hospital app,New,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+72524,Tasks,Procedures Screens (same as Medications),New,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+72525,Tasks,Registration Nurse notification with incoming patient information wireframes,New,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+72526,Tasks,Transfer Tab Screens,New,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+72527,Tasks,Information displayed on Assessment Landing Screen,New,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+70855,Feature,Labs,Closed,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+72642,User Story,eVitals.18 Glucose | ,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 7,1,Hit\Fuse Platform\V2
+70856,Feature,Assessments and Scales,Active,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+72592,User Story,Add Assessment to link on Event Log page,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 14,1,Hit\Fuse Platform\V2
+72644,User Story,Assessments | Add 'edit' to date/time from list of prior scales,New,V2,Hit\Fuse\Amber Lamps\Sprint 19,1,Hit\Fuse Platform\V2
+72645,User Story,Assessments | ability to jump between steps in scales,New,V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+72646,User Story,SS - CPSS (Cincinnati Stroke Scale) | 1. Add static CPSS result to list,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 15,1,Hit\Fuse Platform\V2
+72648,User Story,SS - CPSS - Delete Completed Scale,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 14,1,Hit\Fuse Platform\V2
+72654,User Story,SS - C-STAT (formerly CPSSS - Cincinnati Prehospital Stroke Severity Scale),New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+72661,User Story,Assessments | Put assessments,Resolved,V2,Hit\Fuse\Amber Lamps\Sprint 18,1,Hit\Fuse Platform\V2
+70858,User Story,SS - RACE (Rapid Arterial Occlusion Evaluation Scale ),New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+70859,User Story,SS - CPSS (Cincinnati Stroke Scale) | 2. add scale,Closed,MVP; V2,Hit\Fuse\Amber Lamps\Sprint 14,1,Hit\Fuse Platform\V2
+70861,User Story,eInjury.04 Field Trauma Triage Criteria (Blood thinner),New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+70862,User Story,SS - VAN - Requires Copyright,New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+70863,User Story,SS - LAMS,New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+70864,User Story,SS - LAPSS,New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+70865,User Story,SS - MEND (Nemsis) - Requires Copyright,New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+73764,User Story,"eVitals.19, 20, 21, 22, 23 GCS | Delete Button Confirmation",Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 8,1,Hit\Fuse Platform\V2
+73877,User Story,SS - NIHSS & NIHSS Helicopter transport,New,BLOCKED; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+73878,User Story,SS - sNIHSS-EMS,New,V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+73879,User Story,eVitals.26 Level of Responsiveness (AVPU),Closed,V2,Hit\Fuse\Amber Lamps\Sprint 17,2,Hit\Fuse Platform\V2
+73880,User Story,SS - MENS,New,BLOCKED; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+73881,User Story,SS - G-FAST,New,V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+73882,User Story,SS - BE FAST (Cincinnati +),New,V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+73883,User Story,"SS - LEGS (Legs,Eyes, Gaze, Speech - Texas Stroke Intervention Prehospital Stroke Severity Scale) ",New,V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+73884,User Story,SS Med-PACS (Medic Prehospital Assessment for Code Stroke),New,BLOCKED; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+73885,User Story,SS 3-ISS (3 items stroke scale),New,V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+74063,User Story,"eVitals.19, 20, 21, 22, 23 GCS | remove qualifier step from scale",Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 8,1,Hit\Fuse Platform\V2
+74165,User Story,SS - Melbourne Ambulance Stroke Screen Read (MASS),New,V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+74216,User Story,eVitals.32 APGAR,New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+74413,User Story,SS - RACE + (Rapid Arterial Occlusion Evaluation Scale + ),New,V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+74414,User Story,SS - PASS,New,V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+74415,User Story,SS- MPSS,New,V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+74914,User Story,Assessments | Get assessments,Resolved,V2,Hit\Fuse\Amber Lamps\Sprint 18,1,Hit\Fuse Platform\V2
+74915,User Story,Admin Chooses Valid Scales| Get assessments,Closed,V2,Hit\Fuse\Amber Lamps\Sprint 15,1,Hit\Fuse Platform\V2
+74916,User Story,Admin Chooses Valid Scales| Put assessments,Closed,V2,Hit\Fuse\Amber Lamps\Sprint 15,1,Hit\Fuse Platform\V2
+72377,User Story,SS - FAST-ED,New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+70805,User Story,Enter vitals manually - eVitals..27 Pain,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 7,1,Hit\Fuse Platform\V2
+70810,User Story,"eVitals.19, 20, 21, 22, 23 GCS | add assessment scale tab navigation",Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 7,1,Hit\Fuse Platform\V2
+70817,User Story,eVitals.33 Trauma Score,New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+76526,User Story,Valid Scales from Config,Closed,V2,Hit\Fuse\Amber Lamps\Sprint 15,1,Hit\Fuse Platform\V2
+77414,User Story,SS - CPSS (Cincinnati Stroke Scale) | Final Modifications,New,BLOCKED; MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+78836,User Story,Scale Component Design v3 | Custom Qs,New,,Hit\Fuse\Amber Lamps\Sprint 19,1,Hit\Fuse Platform\V2
+78221,User Story,Scale Component Design v3 | Trash Can,New,,Hit\Fuse\Amber Lamps\Sprint 19,1,Hit\Fuse Platform\V2
+78222,User Story,Scale Component Design v3 | Submit,New,,Hit\Fuse\Amber Lamps\Sprint 19,1,Hit\Fuse Platform\V2
+78223,User Story,Scale Component Design v3 | Notification,New,,Hit\Fuse\Amber Lamps\Sprint 19,1,Hit\Fuse Platform\V2
+78224,User Story,Scale Component Design v3 | Completed Questions,New,,Hit\Fuse\Amber Lamps\Sprint 19,1,Hit\Fuse Platform\V2
+78080,User Story,Scale Component Design v3 | Vertical Scroll & Selections,New,,Hit\Fuse\Amber Lamps\Sprint 19,1,Hit\Fuse Platform\V2
+70871,Feature,System Logs,New,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+70872,User Story,Audit log/history,New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+70873,User Story,Error logs,New,MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+70874,Feature,Real-Time data updates,New,BLOCKED; V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+70844,User Story,Spike: Push Data,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 4,1,Hit\Fuse Platform\V2
+77994,User Story,Send Updated Data to Hospital via Bus,New,,Hit\Fuse\Amber Lamps\Sprint 19,1,Hit\Fuse Platform\V2
+70876,Feature,Hospital Medical Consult,New,BLOCKED; LifeNet; V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+70877,User Story,Call from Hospital Consult Contacts,New,BLOCKED; MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+70945,User Story,Hospital Consult Phone Numbers,New,BLOCKED; MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+69208,User Story,SPIKE: Click phone number to make call in react native.,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 0,1,Hit\Fuse Platform\V2
+77348,User Story,ESTIMATES,New,,Hit\Fuse\Amber Lamps,3,Hit\Fuse Platform\V2
+70878,Feature,Connectivity,Closed,V2,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+70879,User Story,Connectivity,Closed,MVP,Hit\Fuse\Amber Lamps\Sprint 0,1,Hit\Fuse Platform\V2
+75234,Feature,EMS Thin Slice,Closed,Fuse_Pilot_MVP,Hit\Fuse\Grey Matter,,Hit\Fuse Platform\V2
+74920,User Story,Fuse: Receive Patient Data from EMS,Closed,EMS; Fuse_Pilot_MVP,Hit\Fuse\Grey Matter\Sprint 15,1,Hit\Fuse Platform\V1
+74921,User Story,Fuse: Show Patient Card for EMS arrival,Closed,EMS; Fuse_Pilot_MVP,Hit\Fuse\Grey Matter\Sprint 15,1,Hit\Fuse Platform\V1
+75394,Feature,Chief Complaint,Closed,V2,Hit\Fuse\Amber Lamps\Sprint 12,,Hit\Fuse Platform\V2
+75395,User Story,eSituation.04 - Comments,Closed,UX; V2,Hit\Fuse\Amber Lamps\Sprint 14,1,Hit\Fuse Platform\V2
+75696,User Story,eSituation.04 - Chief Complaint,Closed,UX; V2,Hit\Fuse\Amber Lamps\Sprint 14,1,Hit\Fuse Platform\V2
+75452,Feature,STEMI Protocol,New,A&A,Hit\Fuse,,Hit\Fuse Platform\V2
+78507,User Story,Display STEMI when feature is enabled,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78508,User Story,Balloon Time,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78509,User Story,Capture Door Time,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78510,User Story,Display door-to-balloon Time,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78830,User Story,ESTIMATE,New,,Hit\Fuse,21,Hit\Fuse Platform\V2
+75503,Feature,EMS to Hospital Alerts,Active,A&A; IHP; V2,Hit\Fuse\Pelvis Presley,,Hit\Fuse Platform\V2
+77253,Tasks,Organization Lookup Middleware for Fuse-Admin,Closed,,Hit\Fuse\Pelvis Presley\Iteration 6,1,Hit\Fuse Platform\V2
+78006,Tasks,SPIKE: Translation of Remote Notifications on Android,New,Alerts,Hit\Fuse\Pelvis Presley,,Hit\Fuse Platform\V2
+78007,Tasks,SPIKE: Translation of Remote Notifications on iOS,New,Alerts,Hit\Fuse\Pelvis Presley,,Hit\Fuse Platform\V2
+78097,Tasks,Add Integration tests in Fuse-Mobile build pipeline,Closed,Alerts,Hit\Fuse\Pelvis Presley\Iteration 8,1,Hit\Fuse Platform\V2
+77468,Tasks,Write test to verify that push notifications can be received,Closed,Alerts,Hit\Fuse\Pelvis Presley\Iteration 8,2,Hit\Fuse Platform\V2
+77340,Tasks,ESTIMATE,New,Alerts,Hit\Fuse\Pelvis Presley,6,Hit\Fuse Platform\V2
+77422,Tasks,SPIKE: How Do We Segregate Push Notifications Across Environments?,New,Alerts,Hit\Fuse\Pelvis Presley,,Hit\Fuse Platform\V2
+75432,Tasks,SPIKE: Notifications from Azure Functions,Closed,Alerts; IHP,Hit\Fuse\Pelvis Presley\Iteration 5,2,Hit\Fuse Platform\V2
+75433,Tasks,SPIKE: Deep-linking to a patient screen,Closed,Alerts; IHP,Hit\Fuse\Pelvis Presley\Iteration 4,1,Hit\Fuse Platform\V2
+75601,Tasks,Refactor EMS Login Functionality,New,Technical Debt,Hit\Fuse\Pelvis Presley,2,Hit\Fuse Platform\V2
+76216,Tasks,Convert Fuse Admin API Auth to Middleware,Closed,Technical Debt,Hit\Fuse\Pelvis Presley\Iteration 6,1,Hit\Fuse Platform\V2
+75820,Tasks,Customize App Display Name by Environment for EMS,New,Technical Debt,Hit\Fuse\Pelvis Presley,1,Hit\Fuse Platform\V2
+75474,Tasks,Setup Push Notification Infrastructure for iOS,Closed,Alerts,Hit\Fuse\Pelvis Presley\Iteration 7,1,Hit\Fuse Platform\V2
+75475,Tasks,Setup Push Notification Infrastructure for Android,Closed,Alerts,Hit\Fuse\Pelvis Presley\Iteration 6,2,Hit\Fuse Platform\V2
+75469,User Story,Display User Care Groups,Closed,Alerts,Hit\Fuse\Pelvis Presley\Iteration 8,1,Hit\Fuse Platform\V2
+75472,User Story,Limit EMS Alert Push Notifications to Users Flagged with Notify,New,Alerts; DEPENDENCY,Hit\Fuse\Pelvis Presley,1,Hit\Fuse Platform\V2
+75473,User Story,Notification Registration upon Login,Closed,Alerts,Hit\Fuse\Pelvis Presley\Iteration 7,1,Hit\Fuse Platform\V2
+71507,User Story,Get Alert,New,IHP; MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+71508,User Story,Get Activation,New,IHP; MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+72138,User Story,Internal Hospital Activation,New,IHP; MVP; V2,Hit\Fuse\Amber Lamps,1,Hit\Fuse Platform\V2
+76943,User Story,API to update/get singular Care Groups Config,Closed,Alerts,Hit\Fuse\Pelvis Presley\Iteration 6,2,Hit\Fuse Platform\V2
+76904,User Story,Enable Deep Linking for In Hospital Alerts,New,Alerts,Hit\Fuse\Pelvis Presley,1,Hit\Fuse Platform\V2
+76905,User Story,Route Alerts to the Default Care Group when no provider impressions are configured,New,Alerts; DEPENDENCY,Hit\Fuse\Pelvis Presley,1,Hit\Fuse Platform\V2
+75625,User Story,Limit User Care Group Config for Non-Admin Users,New,Alerts; DEPENDENCY,Hit\Fuse\Pelvis Presley,2,Hit\Fuse Platform\V2
+75525,User Story,Toggle on/off call from Mobile App,New,Alerts; DEPENDENCY,Hit\Fuse\Pelvis Presley,2,Hit\Fuse Platform\V2
+75526,User Story,"Send notifications based on ""On Call"" Settings",New,Alerts; DEPENDENCY,Hit\Fuse\Pelvis Presley,2,Hit\Fuse Platform\V2
+75527,User Story,Route EMS alerts based on Provider Impressions,Active,Alerts,Hit\Fuse\Pelvis Presley\Iteration 9,2,Hit\Fuse Platform\V2
+75528,User Story,Add additional Information to EMS alerts,New,Alerts; DEPENDENCY,Hit\Fuse\Pelvis Presley,2,Hit\Fuse Platform\V2
+75529,User Story,API to get and create User,Closed,Alerts,Hit\Fuse\Pelvis Presley\Iteration 5,2,Hit\Fuse Platform\V2
+75533,User Story,API to get and update Organization Impressions,Closed,Alerts; Archived,Hit\Fuse\Pelvis Presley,1,Hit\Fuse Platform\V2
+75535,User Story,API to Register Device for Notifications,Closed,Alerts,Hit\Fuse\Pelvis Presley\Iteration 6,2,Hit\Fuse Platform\V2
+77168,User Story,Validation of Provider Impressions and Diagnosis Codes for Care Group Config,New,Alerts; DEPENDENCY,Hit\Fuse\Pelvis Presley,2,Hit\Fuse Platform\V2
+77252,User Story,Add Default Care Group on Organization Creation,New,Alerts; DEPENDENCY,Hit\Fuse\Pelvis Presley,1,Hit\Fuse Platform\V2
+78001,User Story,Require Alerting Configuration for Care Groups,New,Alerts,Hit\Fuse\Pelvis Presley,1,Hit\Fuse Platform\V2
+78876,User Story,Make Provider Impression Required to Send Alert,New,,Hit\Fuse\Amber Lamps\Sprint 19,1,Hit\Fuse Platform\V2
+75413,Feature,Remove fields,Closed,V2,Hit\Fuse\Amber Lamps\Sprint 12,,Hit\Fuse Platform\V2
+75414,User Story,Remove Vital - ECG Type,Closed,V2,Hit\Fuse\Amber Lamps\Sprint 12,1,Hit\Fuse Platform\V2
+75415,User Story,Remove Vital - ECG Method,Closed,V2,Hit\Fuse\Amber Lamps\Sprint 12,1,Hit\Fuse Platform\V2
+77429,Feature,Care Groups APIs for Fuse Admin Portal,Active,,Hit\Fuse\Pelvis Presley,,Hit\Fuse Platform\V2
+77608,Tasks,Change Care Group Config Schema and API,Active,APIs,Hit\Fuse\Pelvis Presley\Iteration 9,2,Hit\Fuse Platform\V2
+77685,Tasks,ESTIMATE for API,New,,Hit\Fuse\Pelvis Presley,8,Hit\Fuse Platform\V2
+77338,Tasks,Applications/Features for Organization API,New,APIs,Hit\Fuse\Pelvis Presley\Iteration 9,1,Hit\Fuse Platform\V2
+77158,Tasks,Return Meaningful Messages for API Errors,New,APIs,Hit\Fuse\Pelvis Presley,2,Hit\Fuse Platform\V2
+77159,Tasks,SPIKE: Admin API Validation Strategy,Closed,APIs,Hit\Fuse\Pelvis Presley\Iteration 8,1,Hit\Fuse Platform\V2
+75470,User Story,API to get/set Care Groups for a User,Closed,APIs,Hit\Fuse\Pelvis Presley\Iteration 7,2,Hit\Fuse Platform\V2
+75471,User Story,API to set a User Notification flag,Closed,APIs,Hit\Fuse\Pelvis Presley\Iteration 8,1,Hit\Fuse Platform\V2
+76207,User Story,Return Correlation ID With All Admin API Responses,Closed,APIs,Hit\Fuse\Pelvis Presley\Iteration 9,1,Hit\Fuse Platform\V2
+76907,User Story,API to get/set Users in a Care Group,Closed,APIs,Hit\Fuse\Pelvis Presley\Iteration 7,2,Hit\Fuse Platform\V2
+76908,User Story,Alter Care Group Config API to limit to a single Default Care Group,New,APIs; DEPENDENCY,Hit\Fuse\Pelvis Presley,1,Hit\Fuse Platform\V2
+76909,User Story,API to unregister a device for a given user,New,APIs; DEPENDENCY,Hit\Fuse\Pelvis Presley,1,Hit\Fuse Platform\V2
+75624,User Story,Limit Admin API access by Role for Global Admin,New,APIs,Hit\Fuse\Pelvis Presley,1,Hit\Fuse Platform\V2
+75534,User Story,API to get and create Care Groups Config,Closed,APIs,Hit\Fuse\Pelvis Presley\Iteration 6,2,Hit\Fuse Platform\V2
+77423,User Story,API to Delete Care Group,New,APIs,Hit\Fuse\Pelvis Presley,1,Hit\Fuse Platform\V2
+77424,User Story,API to Delete User,New,APIs,Hit\Fuse\Pelvis Presley,2,Hit\Fuse Platform\V2
+77425,User Story,API to Delete Organization,New,APIs,Hit\Fuse\Pelvis Presley,2,Hit\Fuse Platform\V2
+78098,User Story,API for User On-Call Status,Closed,APIs,Hit\Fuse\Pelvis Presley\Iteration 9,2,Hit\Fuse Platform\V2
+78008,User Story,API to Get All Users for an Organzation,New,APIs,Hit\Fuse\Pelvis Presley,1,Hit\Fuse Platform\V2
+78010,User Story,Limit Organization-Level Admin API access EMS Config APIs,New,APIs; DEPENDENCY,Hit\Fuse\Pelvis Presley,2,Hit\Fuse Platform\V2
+77732,User Story,Update User Care Groups response body to have name,Closed,APIs,Hit\Fuse\Pelvis Presley\Iteration 8,1,Hit\Fuse Platform\V2
+77867,User Story,Limit Admin API access for Organization-Level Admin for Care Groups,New,APIs; DEPENDENCY,Hit\Fuse\Pelvis Presley,2,Hit\Fuse Platform\V2
+77610,User Story,Stroke Enabled organization must have Stroke Care Group,New,APIs,Hit\Fuse\Pelvis Presley,1,Hit\Fuse Platform\V2
+78276,Feature,EMS Patient Info Screen,New,A&A,Hit\Fuse,,Hit\Fuse Platform\V2
+78465,User Story,Basic EMS Patient Data,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78466,User Story,Other EMS Patient Data,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78467,User Story,Deep Linking to Patient,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78816,User Story,ESTIMATE,New,,Hit\Fuse,35,Hit\Fuse Platform\V2
+78277,Feature,New Patient Acknowledgement,New,A&A,Hit\Fuse\Pelvis Presley,,Hit\Fuse Platform\V2
+78469,User Story,Alert Read Receipt once viewed by Hospital,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78817,User Story,ESTIMATE,New,,Hit\Fuse\Pelvis Presley,14,Hit\Fuse Platform\V2
+78278,Feature,Cancel Alert Sent to Hospital,New,A&A,Hit\Fuse,,Hit\Fuse Platform\V2
+78470,User Story,Cancel Notification Sent,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78471,User Story,Cancel Activation Sent,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78472,User Story,Flag Patient as Cancelled,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78473,User Story,Complete Patient when no longer Active,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78818,User Story,ESTIMATE,New,,Hit\Fuse,14,Hit\Fuse Platform\V2
+78280,Feature,Patient Updates,New,A&A,Hit\Fuse,,Hit\Fuse Platform\V2
+78474,User Story,Patient Updates transmitted from EMS to Hospital,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78819,User Story,ESTIMATE,New,,Hit\Fuse,7,Hit\Fuse Platform\V2
+78283,Feature,Automatic Activation,New,A&A,Hit\Fuse\Pelvis Presley,,Hit\Fuse Platform\V2
+78476,User Story,Disable multiple activations,New,,Hit\Fuse,1,Hit\Fuse Platform\V2
+78477,User Story,Exclude users who are not on call,New,,Hit\Fuse,1,Hit\Fuse Platform\V2
+78479,User Story,Activation specific notification message,New,,Hit\Fuse,1,Hit\Fuse Platform\V2
+78480,User Story,"Send existing alert message to ""Activate"" Care Group team members",New,,Hit\Fuse,1,Hit\Fuse Platform\V2
+78481,User Story,Log Time of Activation,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78482,User Story,Add array of Users to Patient,New,,Hit\Fuse,1,Hit\Fuse Platform\V2
+78483,User Story,Exclude users who are not on call,New,,Hit\Fuse,1,Hit\Fuse Platform\V2
+78484,User Story,API to retrieve Care Team members (integration test),New,,Hit\Fuse,1,Hit\Fuse Platform\V2
+78821,User Story,ESTIMATE,New,,Hit\Fuse\Pelvis Presley,6,Hit\Fuse Platform\V2
+78284,Feature,Manual Activation,New,A&A,Hit\Fuse,,Hit\Fuse Platform\V2
+78487,User Story,Activate Team Button on EMS Patient Data Screen,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78488,User Story,Prevent Multiple Activations,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78489,User Story,"Show ""Activate Team"" button on In Hospital App",New,,Hit\Fuse,1,Hit\Fuse Platform\V2
+78822,User Story,ESTIMATE,New,,Hit\Fuse,7,Hit\Fuse Platform\V2
+78285,Feature,Care Team Member Page,New,A&A,Hit\Fuse,,Hit\Fuse Platform\V2
+78490,User Story,Display a list of Care Team Members,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78491,User Story,Additional Info about Team Members,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78823,User Story,ESTIMATE,New,,Hit\Fuse,14,Hit\Fuse Platform\V2
+78286,Feature,Enter Patient Info,New,A&A,Hit\Fuse,,Hit\Fuse Platform\V2
+78493,User Story,Select Care Group,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78494,User Story,Demographic Details,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78495,User Story,MRN,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78832,User Story,ESTIMATE,New,,Hit\Fuse,14,Hit\Fuse Platform\V2
+78288,Feature,Walk In Activation,New,A&A,Hit\Fuse,,Hit\Fuse Platform\V2
+78496,User Story,Send Activation,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78497,User Story,Do Not Activate,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78831,User Story,ESTIMATE,New,,Hit\Fuse,14,Hit\Fuse Platform\V2
+78289,Feature,Changes to Patient List Screen,New,A&A,Hit\Fuse,,Hit\Fuse Platform\V2
+78498,User Story,Active List of User's Care Group Patients,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78499,User Story,All Assigned Patients List,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78500,User Story,Remove Stroke Specific Data,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78501,User Story,Display non-EHR Patient Info,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78827,User Story,ESTIMATE,New,,Hit\Fuse,28,Hit\Fuse Platform\V2
+78290,Feature,Patient Completion,New,A&A,Hit\Fuse,,Hit\Fuse Platform\V2
+78502,User Story,"Remove ""Complete"" Patients from Active Tab",New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78503,User Story,12 Hours without linking to Protocol,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78504,User Story,Manual Completion of a Patient,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78505,User Story,Stroke Process,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78506,User Story,Remove Patients from All Patients after 120 days,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78828,User Story,ESTIMATE,New,,Hit\Fuse,14,Hit\Fuse Platform\V2
+78291,Feature,Stroke Protocol,New,A&A,Hit\Fuse,,Hit\Fuse Platform\V2
+78511,User Story,Display Stroke when feature is enabled,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78829,User Story,ESTIMATE,New,,Hit\Fuse,7,Hit\Fuse Platform\V2
+78292,Feature,MRN,New,A&A,Hit\Fuse,,Hit\Fuse Platform\V2
+69453,User Story,MRN from in-hospital | display it,New,MVP; V2,Hit\Fuse\Amber Lamps,0,Hit\Fuse Platform\V2
+69454,User Story,MRN from in-hospital | update it?,New,MVP; V2,Hit\Fuse\Amber Lamps,0,Hit\Fuse Platform\V2
+69455,User Story,MRN from in-hospital | disable it,New,MVP; V2,Hit\Fuse\Amber Lamps,0,Hit\Fuse Platform\V2
+78512,User Story,EHR Link,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78513,User Story,Enter MRN within In Hospital App,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78514,User Story,MRN Matching,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78824,User Story,ESTIMATE,New,,Hit\Fuse,14,Hit\Fuse Platform\V2
+78293,Feature,Hospital Patient Location Data,New,A&A,Hit\Fuse,,Hit\Fuse Platform\V2
+78515,User Story,Transfer Location Info to EMS App,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78825,User Story,ESTIMATE,New,,Hit\Fuse,7,Hit\Fuse Platform\V2
+78294,Feature,Send Data to EMS,New,A&A,Hit\Fuse,,Hit\Fuse Platform\V2
+75397,User Story,Patient Outcome - Free text,New,IHP; V2,Hit\Fuse\Amber Lamps,0,Hit\Fuse Platform\V2
+70902,User Story,eOutcome.10 - Emergency Department Diagnosis - Patient Outcome,New,MVP; V2,Hit\Fuse\Amber Lamps,0,Hit\Fuse Platform\V2
+70906,User Story,Outcome - Push Notification (do we need a notification feature?),New,MVP; V2,Hit\Fuse\Amber Lamps,0,Hit\Fuse Platform\V2
+78516,User Story,ED Diagnosis Code,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78517,User Story,EHR Diagnosis Outcome,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78518,User Story,Receive & Display Hospital Info on Transport Screen,New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78519,User Story,Receive update when patient is 'Complete',New,Needs Broken Down,Hit\Fuse,0,Hit\Fuse Platform\V2
+78826,User Story,ESTIMATE,New,,Hit\Fuse,7,Hit\Fuse Platform\V2
+78837,Feature,Terraform Pipeline,New,,Hit\Fuse\Amber Lamps,,Hit\Fuse Platform\V2
+78845,User Story,Terraform: shared back-end,New,,Hit\Fuse\Amber Lamps\Sprint 19,3,Hit\Fuse Platform\V2
+78846,User Story,Terraform: ems back end,New,,Hit\Fuse\Amber Lamps\Sprint 19,3,Hit\Fuse Platform\V2
+78847,User Story,Terraform: admin back end,New,,Hit\Fuse\Amber Lamps\Sprint 19,3,Hit\Fuse Platform\V2
+78848,User Story,Terraform: hospital back end *updates* for shared components,New,,Hit\Fuse\Amber Lamps\Sprint 19,3,Hit\Fuse Platform\V2
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
