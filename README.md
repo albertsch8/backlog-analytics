@@ -32,4 +32,4 @@ Using python to get the most out of your backlog
 2. Export (Windows) or copy query results (Mac) to a csv
 3. Save the csv to the folder containing the notebook you're running
 
-Note: Step #2 provides data in different formats. Be sure to use the correct code depending on method. Sample data is in the "sample_data" folder.
+Note: Whether you export query data to excel (Windows only) or copy and paste the data will alter the data format. Be sure to use the correct code depending on method. Sample data for each export method is in the "sample_data" folder.
