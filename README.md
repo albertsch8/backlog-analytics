@@ -24,7 +24,7 @@ Using python to get the most out of your backlog
 ## Creating the VSTS Query for the Backlog Feature Analysis
 
 1. Create a query with the following columns for your data
-<img src="https://gitlab.com/albertsch/python-for-product-managers/raw/master/images/feature_analysis_columns.png" width="800" />
+<img src="https://raw.githubusercontent.com/albertsch8/backlog-analytics/master/images/feature_analysis_columns.png" width="800" />
 
 2. Export (Windows) or copy query results (Mac) to a csv
 3. Save the csv to the folder containing the notebook you're running
