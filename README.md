@@ -4,11 +4,14 @@ Using python to get the most out of your backlog
 
 ## About this Project
 
-*  **Who**: Anyone with basic programming experience that wants to leverage python to get more out of their backlog or excel files
+  **Who**: Anyone with basic programming experience that wants to leverage python to get more out of their backlog or excel files
 
-*  **What**: Notebooks to help you analyze and visualize excel backlog data with python. 
+ **What**: Notebooks to help you analyze and visualize excel backlog data with python
+ basic_csv_editing.ipynb: edit csv files like you would in excel
+- team_features_{OS}.ipynb: calculate sprint velocity, feature progress, burnup for a dev team
+- product_features_{OS}.ipynb: calculate feature progress for a product or release
 
-*  **Why**: Python is a great, free, and easy to use tool that will let you gather new insight and visualizations of your data
+  **Why**: Python is a great, free, and easy to use tool that will let you gather new insight and visualizations of your data
 
 ## Running the Notebooks
 
@@ -21,10 +24,12 @@ Using python to get the most out of your backlog
 - You can upload the notebooks to <a href= "https://colab.research.google.com/notebooks/welcome.ipynb#recent=true">Google Colab</a> or Azure Notebooks
 [ Note: While Google Colab is free, it may not be a secure option to upload your data to depending on company policy]
 
-## Creating the VSTS Query for the Backlog Feature Analysis
+## Creating the Azure DevOps Query for the Backlog Feature Analysis
 
-1. Create a query with the following columns for your data
+1. Create a query with the following columns for your data at a feature level
 <img src="https://raw.githubusercontent.com/albertsch8/backlog-analytics/master/images/feature_analysis_columns.png" width="800" />
 
 2. Export (Windows) or copy query results (Mac) to a csv
 3. Save the csv to the folder containing the notebook you're running
+
+Note: Step #2 provides data in different formats. Be sure to use the correct code depending on method. Sample data is in the "sample_data" folder.
