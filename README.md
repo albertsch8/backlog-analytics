@@ -2,6 +2,15 @@
 
 Using python to get the most out of your backlog
 
+# Sample Outputs
+
+<p>
+<img src="https://raw.githubusercontent.com/amandabertsch/backlog-analytics/master/images/velocity_output.png" width="300" />
+<img src="https://raw.githubusercontent.com/amandabertsch/backlog-analytics/master/images/feature_output.png" width="300" />
+<img src="https://raw.githubusercontent.com/amandabertsch/backlog-analytics/master/images/burnup_output.png" width="300" />
+
+</p>
+
 ## About this Project
 
   **Who**: Anyone with basic programming experience that wants to leverage python to get more out of their backlog or excel files
