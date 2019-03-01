@@ -5,9 +5,9 @@ Using python to get the most out of your backlog
 # Sample Outputs
 
 <p>
-<img src="https://raw.githubusercontent.com/amandabertsch/backlog-analytics/master/images/velocity_output.png" width="300" />
+<img src="https://raw.githubusercontent.com/amandabertsch/backlog-analytics/master/images/velocity_output.png" width="260" />
 <img src="https://raw.githubusercontent.com/amandabertsch/backlog-analytics/master/images/feature_output.png" width="300" />
-<img src="https://raw.githubusercontent.com/amandabertsch/backlog-analytics/master/images/burnup_output.png" width="300" />
+<img src="https://raw.githubusercontent.com/amandabertsch/backlog-analytics/master/images/burnup_output.png" width="275" />
 
 </p>
 
